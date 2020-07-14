@@ -1,2 +1,2 @@
 # prueba1
-Mi primera prueba
+Esta es mi primera prueba con GitHub
